@@ -1,0 +1,6 @@
+<isloop items="${pdict.test}" var="ob">
+    ${ob.name}
+    ${ob.color}
+    ${ob.year}<br>
+</isloop>
+<h1>${pdict.name}</h1>
